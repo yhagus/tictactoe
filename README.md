@@ -2,7 +2,7 @@
 # C# Project
 
 # Anggota Kelompok
-Bagus Pranowo
+Bagus Pranowo<br>
 Burhan Rafid Aziz
 David Muhammad Nizam
 Elang Iman Angkasa
