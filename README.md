@@ -3,8 +3,8 @@
 
 # Anggota Kelompok
 Bagus Pranowo<br>
-Burhan Rafid Aziz
-David Muhammad Nizam
-Elang Iman Angkasa
-Reychandra Tristan F.
-Wisnu Aditya
+Burhan Rafid Aziz<br>
+David Muhammad Nizam<br>
+Elang Iman Angkasa<br>
+Reychandra Tristan F.<br>
+Wisnu Aditya<br>
